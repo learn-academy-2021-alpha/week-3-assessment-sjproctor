@@ -9,7 +9,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is object destructuring?
 
-  Your answer:
+  Your answer: Extracts properties from objects and binds them to variables
 
   Researched answer:
 
@@ -17,7 +17,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 2. What are React lifecycle methods? Provide three examples.
 
-  Your answer:
+  Your answer: Methods used during mounting, updating, and unmounting stages of a component - ex) constructor, render, componentWillUnmount, componentDidMount
 
   Researched answer:
 
@@ -25,7 +25,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 3. What is the difference between a class and an object?
 
-  Your answer:
+  Your answer: Class is the blueprint of an object, the object is the actual thing
 
   Researched answer:
 
@@ -33,7 +33,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 4. What is the difference between a HTML div and a span?
 
-  Your answer:
+  Your answer: Div is block level element, span is a inline element
 
   Researched answer:
 
@@ -41,7 +41,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 5. What is a React Fragment (or <>) and why would you want to use it?
 
-  Your answer:
+  Your answer: Used to return multiple elements, avoid adding more nodes to the DOM
 
   Researched answer:
 
@@ -49,7 +49,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 6. What does it mean to create a responsive UI? What are three options for creating responsive design?
 
-  Your answer:
+  Your answer: Design stretches and shrinks to fit the browser size, ex) grid, media queries, em/rem, %, flexbox
 
   Researched answer:
 
@@ -57,7 +57,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 7. What are props in React?
 
-  Your answer:
+  Your answer: props are arguments passed into react components, properties
 
   Researched answer:
 
@@ -65,7 +65,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 8. What is `this` in JavaScript?
 
-  Your answer:
+  Your answer: refers to the current executable context
 
   Researched answer:
 
@@ -73,7 +73,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 9. STRETCH: What is a ternary operator in JavaScript?
 
-  Your answer:
+  Your answer: Another way to write conditionals, shorthand if/else statement
 
   Researched answer:
 
@@ -81,16 +81,16 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 10. STRETCH: What is an anonymous function in JavaScript?
 
-  Your answer:
+  Your answer: Unnamed function
 
   Researched answer:
 
 
 
 ## Looking Ahead: Terms for Next Week
-- Ruby
-- Object oriented programming
-- RSpec
-- Instance variable
-- Ruby blocks
-- Ruby hashes
+- Ruby - programming language, OOP, very readable by humans
+- Object oriented programming - creating sections/containers for the larger program
+- RSpec - domaine specific language, written in Ruby for testing Ruby code
+- Instance variable - variable that can be defined by the initializer, pass data to other classes
+- Ruby blocks - chunks of reusable code
+- Ruby hashes - collection of key/value pairs
